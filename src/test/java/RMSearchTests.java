@@ -29,7 +29,7 @@ public class RMSearchTests {
     }
 
     public void search(String location) {
-        // this wait function tells the test to wait 30 seconds for an element to appear before erroring
+        // this wait function tells the test to wait 60 seconds for an element to appear before erroring
         driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 
         // type everything and select from dropdown, click search button
