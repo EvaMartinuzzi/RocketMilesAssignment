@@ -23,13 +23,13 @@ Selenium download: http://selenium-release.storage.googleapis.com/index.html?pat
 
 Java Download: https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase10-4425482.html (I used 10.0.1, this is not the latest possible version of Java to run)
 
-Useful doc for setting up IntelliJ with Maven: https://saucelabs.com/resources/articles/getting-started-with-webdriver-in-java-using-intellij-on-windows
-
 
 ### Instructions to run solution:
 
 1. ```git clone git@github.com:EvaMartinuzzi/RocketMilesAssignment.git``` into the file of your choosing
 2. In your terminal of choice, cd into this repository and run ```mvn clean install``` just to ensure there are no issues with maven
-3. Open module in IntelliJ
+3. Open module in IntelliJ (will need to set up maven as a framework, will need to go to File => Project Structure, click dependencies, +, and add your selenium zip and jar).  For more info on setting up click this link:
+
+      * Setting up IntelliJ with Maven: https://saucelabs.com/resources/articles/getting-started-with-webdriver-in-java-using-intellij-on-windows
 4. Right click on the module and select "Run All Tests"
 5. PLEASE NOTE:  all of these tests should pass.  I had some trouble with tests running too fast/too slow which caused errors, but if this happens please attempt to re run the test.  Thank you!
