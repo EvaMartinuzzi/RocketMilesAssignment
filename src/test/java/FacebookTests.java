@@ -6,7 +6,7 @@ public class FacebookTests {
     // please note, I do not have a Facebook!  So this exercise was not as exciting (or terrifying) as im sure it is for others
     // I did create a generic account for this exercise to get an access token and create an app to test with etc.
     // TODO: enter your personal access token here for tests to run
-    private String accessToken = "EAAFlZBoiYCigBAKS9iO9v8HXvf2ZCkIRygoMxMZBq3YYIuKbNQwFgXT5jqBnzlVrXGfZAUzb3ZCVpSNOKdt7E8V9phEv95D6jAzoiZCRU3BfFKkn54ux0xGRqN20VU0ereddgVqzhljktZB6hNZAdhZCrZAHRq6FdTA2KN05iZAXapi8kpYwSZCzy6PgRVAMZB9IEZAhKqwZBQZB9UZC2RqvgrdbDMVAK";
+    private String accessToken = "";
 
     @Test
     public void getCurrentUsersIdandName() {
