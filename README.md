@@ -23,6 +23,8 @@ Selenium download: http://selenium-release.storage.googleapis.com/index.html?pat
 
 Java Download: https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase10-4425482.html (I used 10.0.1, this is not the latest possible version of Java to run)
 
+Useful doc for setting up IntelliJ with Maven: https://saucelabs.com/resources/articles/getting-started-with-webdriver-in-java-using-intellij-on-windows
+
 
 ### Instructions to run solution:
 
