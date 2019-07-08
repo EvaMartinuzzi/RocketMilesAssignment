@@ -28,7 +28,7 @@ Java Download: https://www.oracle.com/technetwork/java/javase/downloads/java-arc
 
 1. ```git clone git@github.com:EvaMartinuzzi/RocketMilesAssignment.git``` into the file of your choosing
 2. In your terminal of choice, cd into this repository and run ```mvn clean install``` just to ensure there are no issues with maven
-3. Open module in IntelliJ (will need to set up maven as a framework, will need to go to File => Project Structure, click dependencies, +, and add your selenium zip and jar).  For more info on setting up click this link:
+3. Open module in IntelliJ (may need to set up maven as a framework, may need to go to File => Project Structure, click dependencies, +, and add your selenium zip and jar IF step 4 does not work upon initial opening in IntelliJ).  For more info on setting up click this link:
 
       * Setting up IntelliJ with Maven: https://saucelabs.com/resources/articles/getting-started-with-webdriver-in-java-using-intellij-on-windows
 4. Right click on the module and select "Run All Tests"
