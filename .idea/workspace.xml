@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45951d1e-9453-47a9-9f7e-0a2f041124c9" name="Default Changelist" comment="" />
+    <list default="true" id="45951d1e-9453-47a9-9f7e-0a2f041124c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FacebookTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FacebookTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RocketMilesUITests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/RocketMilesUITests-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +28,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RMSearchTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+            <state relative-caret-position="2516">
+              <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RMLoginAccountCreationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="17" selection-start-line="14" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FacebookTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,6 +89,9 @@
       <find>/a</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +102,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/RMLoginAccountCreationTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/RMSearchTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FacebookTests.java" />
       </list>
     </option>
   </component>
@@ -69,22 +116,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RocketMilesUITests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMilesUITests" type="462c0819:PsiDirectoryNode" />
+              <item name="RocketMilesAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketMilesAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RocketMilesAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketMilesAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RocketMilesAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketMilesAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RocketMilesAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketMilesAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -108,7 +175,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RMSearchTests.nonEnglishSearchesTurkish">
+  <component name="RunManager" selected="JUnit.FacebookTests.getCurrentUsersIdandName">
+    <configuration name="All in RocketMilesAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RocketMilesAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookTests.getCurrentUsersIdandName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RocketMilesAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FacebookTests" />
+      <option name="METHOD_NAME" value="getCurrentUsersIdandName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RMSearchTests.nonEnglishSearchesJapanese" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RocketMilesUITests" />
       <option name="PACKAGE_NAME" value="" />
@@ -129,16 +214,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RMSearchTests.nonEnglishSearchesPortuguese" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RocketMilesUITests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RMSearchTests" />
-      <option name="METHOD_NAME" value="nonEnglishSearchesPortuguese" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RMSearchTests.nonEnglishSearchesTurkish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RocketMilesUITests" />
       <option name="PACKAGE_NAME" value="" />
@@ -149,23 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RMSearchTests.saveSession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RocketMilesUITests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RMSearchTests" />
-      <option name="METHOD_NAME" value="saveSession" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FacebookTests.getCurrentUsersIdandName" />
+        <item itemvalue="JUnit.All in RocketMilesAssignment" />
         <item itemvalue="JUnit.RMSearchTests.nonEnglishSearchesTurkish" />
         <item itemvalue="JUnit.RMSearchTests.nonEnglishSearchesNorwegian" />
         <item itemvalue="JUnit.RMSearchTests.nonEnglishSearchesJapanese" />
-        <item itemvalue="JUnit.RMSearchTests.nonEnglishSearchesPortuguese" />
-        <item itemvalue="JUnit.RMSearchTests.saveSession" />
       </list>
     </recent_temporary>
   </component>
@@ -183,15 +248,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RMSearchTests_nonEnglishSearchesJapanese - 2019.07.07 at 15h 00m 48s.xml">
-      <configuration name="RMSearchTests.nonEnglishSearchesJapanese" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RMSearchTests_nonEnglishSearchesNorwegian - 2019.07.07 at 15h 04m 16s.xml">
-      <configuration name="RMSearchTests.nonEnglishSearchesNorwegian" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RMSearchTests_nonEnglishSearchesTurkish - 2019.07.07 at 15h 07m 47s.xml">
-      <configuration name="RMSearchTests.nonEnglishSearchesTurkish" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RMSearchTests_nonEnglishSearchesTurkish - 2019.07.07 at 15h 08m 45s.xml">
       <configuration name="RMSearchTests.nonEnglishSearchesTurkish" configurationId="JUnit" />
     </history-entry>
@@ -213,12 +269,22 @@
     <history-entry file="RMSearchTests_nonEnglishSearchesTurkish - 2019.07.07 at 15h 27m 36s.xml">
       <configuration name="RMSearchTests.nonEnglishSearchesTurkish" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_RocketMilesAssignment - 2019.07.07 at 21h 54m 36s.xml">
+      <configuration name="All in RocketMilesAssignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FacebookTests_getCurrentUsersIdandName - 2019.07.07 at 22h 15m 35s.xml">
+      <configuration name="FacebookTests.getCurrentUsersIdandName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FacebookTests_getCurrentUsersIdandName - 2019.07.07 at 22h 21m 09s.xml">
+      <configuration name="FacebookTests.getCurrentUsersIdandName" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.26066098" />
-      <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4927302" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" sideWeight="0.5072698" side_tool="true" weight="0.26332623" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -226,12 +292,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51895994" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37053087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.032502707" />
@@ -269,25 +335,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RMSearchTestsFirefox.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RMLoginAccountCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="64" column="70" lean-forward="true" selection-start-line="64" selection-start-column="70" selection-end-line="64" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -296,10 +345,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RMSearchTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+        <state relative-caret-position="2516">
+          <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RMLoginAccountCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="17" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FacebookTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -356,7 +432,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RocketMilesUITests</last-edited>
+          <last-edited>RocketMilesAssignment</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
